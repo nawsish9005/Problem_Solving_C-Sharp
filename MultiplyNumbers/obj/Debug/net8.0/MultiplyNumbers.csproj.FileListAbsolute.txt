@@ -1,0 +1,15 @@
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.exe
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.deps.json
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\bin\Debug\net8.0\MultiplyNumbers.pdb
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.sourcelink.json
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\refint\MultiplyNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.pdb
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\MultiplyNumbers.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\MultiplyNumbers\obj\Debug\net8.0\ref\MultiplyNumbers.dll
