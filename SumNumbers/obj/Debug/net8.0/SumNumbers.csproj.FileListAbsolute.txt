@@ -1,0 +1,14 @@
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\bin\Debug\net8.0\SumNumbers.exe
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\bin\Debug\net8.0\SumNumbers.deps.json
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\bin\Debug\net8.0\SumNumbers.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\bin\Debug\net8.0\SumNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\bin\Debug\net8.0\SumNumbers.pdb
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\SumNumbers.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\SumNumbers.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\SumNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\refint\SumNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\SumNumbers.pdb
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\SumNumbers.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\SumNumbers\obj\Debug\net8.0\ref\SumNumbers.dll

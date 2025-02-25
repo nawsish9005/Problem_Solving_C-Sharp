@@ -1,0 +1,14 @@
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\bin\Debug\net8.0\PiNumbers.exe
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\bin\Debug\net8.0\PiNumbers.deps.json
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\bin\Debug\net8.0\PiNumbers.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\bin\Debug\net8.0\PiNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\bin\Debug\net8.0\PiNumbers.pdb
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\PiNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\PiNumbers.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\PiNumbers.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\PiNumbers.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\PiNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\refint\PiNumbers.dll
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\PiNumbers.pdb
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\PiNumbers.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\PiNumbers\obj\Debug\net8.0\ref\PiNumbers.dll
