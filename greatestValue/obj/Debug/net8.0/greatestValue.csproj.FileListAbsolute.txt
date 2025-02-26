@@ -1,0 +1,15 @@
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\bin\Debug\net8.0\greatestValue.exe
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\bin\Debug\net8.0\greatestValue.deps.json
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\bin\Debug\net8.0\greatestValue.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\bin\Debug\net8.0\greatestValue.dll
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\bin\Debug\net8.0\greatestValue.pdb
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.sourcelink.json
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.dll
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\refint\greatestValue.dll
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.pdb
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\greatestValue.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\greatestValue\obj\Debug\net8.0\ref\greatestValue.dll
