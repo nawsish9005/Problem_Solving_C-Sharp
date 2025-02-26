@@ -1,0 +1,15 @@
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.sourcelink.json
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\bin\Debug\net8.0\sample_Calculate.exe
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\bin\Debug\net8.0\sample_Calculate.deps.json
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\bin\Debug\net8.0\sample_Calculate.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\bin\Debug\net8.0\sample_Calculate.dll
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\bin\Debug\net8.0\sample_Calculate.pdb
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.dll
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\refint\sample_Calculate.dll
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.pdb
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\sample_Calculate.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\sample_Calculate\obj\Debug\net8.0\ref\sample_Calculate.dll
