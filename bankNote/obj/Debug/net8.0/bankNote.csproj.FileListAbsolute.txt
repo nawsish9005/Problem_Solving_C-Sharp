@@ -1,0 +1,15 @@
+E:\filessss\Problem_Solving_C-Sharp\bankNote\bin\Debug\net8.0\bankNote.exe
+E:\filessss\Problem_Solving_C-Sharp\bankNote\bin\Debug\net8.0\bankNote.deps.json
+E:\filessss\Problem_Solving_C-Sharp\bankNote\bin\Debug\net8.0\bankNote.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\bankNote\bin\Debug\net8.0\bankNote.dll
+E:\filessss\Problem_Solving_C-Sharp\bankNote\bin\Debug\net8.0\bankNote.pdb
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.sourcelink.json
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.dll
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\refint\bankNote.dll
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.pdb
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\bankNote.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\bankNote\obj\Debug\net8.0\ref\bankNote.dll
