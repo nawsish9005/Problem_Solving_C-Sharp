@@ -1,0 +1,15 @@
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.sourcelink.json
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\bin\Debug\net8.0\yearConversion.exe
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\bin\Debug\net8.0\yearConversion.deps.json
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\bin\Debug\net8.0\yearConversion.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\bin\Debug\net8.0\yearConversion.dll
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\bin\Debug\net8.0\yearConversion.pdb
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.dll
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\refint\yearConversion.dll
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.pdb
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\yearConversion.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\yearConversion\obj\Debug\net8.0\ref\yearConversion.dll
