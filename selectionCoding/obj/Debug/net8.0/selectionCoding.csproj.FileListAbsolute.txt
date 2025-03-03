@@ -1,0 +1,15 @@
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\bin\Debug\net8.0\selectionCoding.exe
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\bin\Debug\net8.0\selectionCoding.deps.json
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\bin\Debug\net8.0\selectionCoding.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\bin\Debug\net8.0\selectionCoding.dll
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\bin\Debug\net8.0\selectionCoding.pdb
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.sourcelink.json
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.dll
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\refint\selectionCoding.dll
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.pdb
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\selectionCoding.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\selectionCoding\obj\Debug\net8.0\ref\selectionCoding.dll
