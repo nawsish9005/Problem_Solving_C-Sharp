@@ -1,0 +1,15 @@
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\bin\Debug\net8.0\averageNumber.exe
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\bin\Debug\net8.0\averageNumber.deps.json
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\bin\Debug\net8.0\averageNumber.runtimeconfig.json
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\bin\Debug\net8.0\averageNumber.dll
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\bin\Debug\net8.0\averageNumber.pdb
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.AssemblyInfoInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.AssemblyInfo.cs
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.csproj.CoreCompileInputs.cache
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.sourcelink.json
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.dll
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\refint\averageNumber.dll
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.pdb
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\averageNumber.genruntimeconfig.cache
+E:\filessss\Problem_Solving_C-Sharp\averageNumber\obj\Debug\net8.0\ref\averageNumber.dll
